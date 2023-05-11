@@ -38,6 +38,3 @@ Here are some ideas to get you started:
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ParisaRostaami&" alt="ParisaRostaami" />
 </div>
 
-
----
-:zap: To generate a README.md file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
