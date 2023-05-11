@@ -30,24 +30,26 @@ Here are some ideas to get you started:
 - Natural Language Processing
 - Computer Vision
 ### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=b1b1b1) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=b1b1b1)
-![Bootstrap](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-Jupyter%20Lab-05122A?style=flat&logo=Jupyter-Lab&color=b1b1b1) 
-![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=b1b1b1)
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+
+![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=b1b1b1) 
+![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=b1b1b1)
+![Bootstrap](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&color=b1b1b1) 
+![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=b1b1b1) 
+![Bootstrap](https://img.shields.io/badge/-Jupyter%20Lab-05122A?style=flat&logo=Jupyter-Lab&color=b1b1b1) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParisaRostaami&show_icons=true&locale=en&layout=compact" alt="ParisaRostaami" />
