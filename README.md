@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Natural Language Processing
 - Computer Vision
 ### ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=yellow&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=FFFF68&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&color=FFD768&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -38,12 +38,11 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&color=ff69b4&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=purple&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&color=7122CB&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=9cf&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=685BC0&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=50459A&logo=git)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=9cf&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&color=9cf&logoColor=1572B6)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
