@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎓 Graduated with BSc in Computer Engineering from University of Science and Technology of Mazandaran (USTM)
 - 💻 I love programming and my primary programming language is Python. I am learning more about Artificial intelligence( especially NLP ).
 - 🌱 I also teach Python and Machine Learning.
-- 📫 How to reach me: Parisarostaami@gmail.com 
+- 📧 How to reach me: Parisarostaami@gmail.com 
 
 
 
