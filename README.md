@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="center">
-       <img src="https://raw.githubusercontent.com/JARVIS-AI/JARVIS-AI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-       <img src="https://raw.githubusercontent.com/JARVIS-AI/JARVIS-AI/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+       <img src="https://raw.githubusercontent.com/ParisaRostaami/ParisaRostaami/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+       <img src="https://raw.githubusercontent.com/ParisaRostaami/ParisaRostaami/output/github-contribution-grid-snake.svg#gh-light-mode-only">
 </h3>
