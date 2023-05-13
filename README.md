@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - Natural Language Processing
 - Computer Vision
 ### ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=9cf&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&color=yellow&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=yellow&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&color=FFD768&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
