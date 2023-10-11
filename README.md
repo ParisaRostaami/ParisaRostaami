@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParisaRostaami%2FParisaRostaami&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Parisa-rostami/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Parisa.rostaamii@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&color=blueviolet&logoColor=white&link=https://ParisaRostaami.github.io)](https://ParisaRostaami.github.io) [![Github](https://img.shields.io/github/followers/ParisaRostaami?label=Follow&style=social)](https://github.com/ParisaRostaami)
 
 - 🎓 Graduated with BSc in Computer Engineering from University of Science and Technology of Mazandaran (USTM).
-- 💻 I love programming and my primary programming language is Python. I am learning more about Artificial intelligence (especially NLP).
-- 🌱 I also teach Python and Machine Learning.
+- 💻 I love programming and my primary programming language is Python. I am learning more about Artificial intelligence.
+- 🌱 I also teach Python and Machine Learning to undergrad students.
 - 📧 How to reach me: Parisa.rostaamii@gmail.com 
 
 
