@@ -1,58 +1,59 @@
-<!--
-**ParisaRostaami/ParisaRostaami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Parisa 👋</h1>
+<p align="center">
+  <b>CS PhD Student</b> · Machine Learning &amp; NLP Researcher · Python enthusiast
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/parisa-rostami/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Parisa.rostaamii@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://parisarostaami.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ParisaRostaami&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Parisa Rostami
+🎓 I'm a CS PhD student at Wichita State University, focused on Machine Learning and Natural Language Processing.
+💻 I love programming, and my primary language is Python.
+🔬 My research interests span NLP, deep learning, and computer vision.
+📫 Reach me at Parisa.rostaamii@gmail.com
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParisaRostaami%2FParisaRostaami&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Parisa-rostami/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Parisa.rostaamii@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&color=blueviolet&logoColor=white&link=https://ParisaRostaami.github.io)](https://ParisaRostaami.github.io) [![Github](https://img.shields.io/github/followers/ParisaRostaami?label=Follow&style=social)](https://github.com/ParisaRostaami)
+<!-- ✏️ TODO: tell me what you're working on right now and I'll fill this in -->
 
-- 🎓 CS PhD Sudent.
-- 💻 I love programming and my primary programming language is Python. 
-- 📧 How to reach me: Parisa.rostaamii@gmail.com 
-
-
-
-### 🖥 Skills
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-### ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=FFFF68&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&color=FFD768&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&color=ff69b4&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=purple&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&color=7122CB&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=685BC0&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=50459A&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=9cf&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&color=4EB7B0&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&color=459A78&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&color=4ED164&logoColor=white)&nbsp;
+🌱 Currently working on [your current project / research focus]
 
 
-<!-- &nbsp; -->
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParisaRostaami&show_icons=true&locale=en&layout=compact" alt="ParisaRostaami" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ParisaRostaami&" alt="ParisaRostaami" />
-</div>
+🧠 Skills & Focus Areas
+Machine Learning · Deep Learning · Natural Language Processing · Computer Vision
 
-<!-- <h3 align="center">
-       <img src="https://raw.githubusercontent.com/PARISAROSTAAMI/PARISAROSTAAMI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-       <img src="https://raw.githubusercontent.com/PARISAROSTAAMI/PARISAROSTAAMI/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-</h3>
- -->
+🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
+
+📌 Featured Projects
+ProjectDescriptionPersianTextSummarizationAbstractive & extractive summarization of Persian text.PersonReidentificationComputer-vision pipeline for matching individuals across multiple camera views (Person Re-ID).Sentiment-AnalysisSentiment classification on the UCI "Sentiment Labelled Sentences" (Amazon) dataset.ML2021Machine learning course materials, notes, and notebooks.
+<!-- ✏️ TODO: add any newer projects from 2024–2026 here, or drop the older ones you no longer want to feature -->
+
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParisaRostaami&show_icons=true&hide_border=true" alt="Parisa's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaRostaami&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
