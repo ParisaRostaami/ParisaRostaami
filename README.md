@@ -15,16 +15,15 @@
   <img src="https://komarev.com/ghpvc/?username=ParisaRostaami&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
-👩‍💻 About Me
+👩‍💻 About Me:
 
 🎓 I'm a CS PhD student at Wichita State University, focused on Machine Learning and Natural Language Processing.
 💻 I love programming, and my primary language is Python.
 🔬 My research interests span NLP, deep learning, and computer vision.
 📫 Reach me at Parisa.rostaamii@gmail.com
 
-<!-- ✏️ TODO: tell me what you're working on right now and I'll fill this in -->
 
-🌱 Currently working on [your current project / research focus]
+🌱 Currently working on Brain Tumor Segmentation
 
 
 🧠 Skills & Focus Areas
@@ -50,7 +49,6 @@ Machine Learning · Deep Learning · Natural Language Processing · Computer Vis
 
 📌 Featured Projects
 ProjectDescriptionPersianTextSummarizationAbstractive & extractive summarization of Persian text.PersonReidentificationComputer-vision pipeline for matching individuals across multiple camera views (Person Re-ID).Sentiment-AnalysisSentiment classification on the UCI "Sentiment Labelled Sentences" (Amazon) dataset.ML2021Machine learning course materials, notes, and notebooks.
-<!-- ✏️ TODO: add any newer projects from 2024–2026 here, or drop the older ones you no longer want to feature -->
 
 📊 GitHub Stats
 <p align="center">
