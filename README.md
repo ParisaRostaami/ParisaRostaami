@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Parisa 👋</h1>
+
 <p align="center">
   <b>CS PhD Student</b> · Machine Learning &amp; NLP Researcher · Python enthusiast
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/parisa-rostami/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,21 +17,27 @@
   <img src="https://komarev.com/ghpvc/?username=ParisaRostaami&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
-👩‍💻 About Me:
+---
 
-🎓 I'm a CS PhD student at Wichita State University, focused on Machine Learning and Natural Language Processing.
-💻 I love programming, and my primary language is Python.
-🔬 My research interests span NLP, deep learning, and computer vision.
-📫 Reach me at Parisa.rostaamii@gmail.com
+### 👩‍💻 About Me
 
+- 🎓 I'm a **CS PhD student** at Wichita State University, focused on Machine Learning and Natural Language Processing.
+- 💻 I love programming, and my primary language is **Python**.
+- 🔬 My research interests span **NLP, deep learning, and computer vision**.
+- 📫 Reach me at **Parisa.rostaamii@gmail.com**
 
-🌱 Currently working on Brain Tumor Segmentation
+- 🌱 Currently working on **Tumor segmentation**
 
+---
 
-🧠 Skills & Focus Areas
-Machine Learning · Deep Learning · Natural Language Processing · Computer Vision
+### 🧠 Skills & Focus Areas
 
-🛠️ Tech Stack
+`Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Computer Vision`
+
+---
+
+### 🛠️ Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
@@ -47,10 +55,33 @@ Machine Learning · Deep Learning · Natural Language Processing · Computer Vis
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-📌 Featured Projects
-ProjectDescriptionPersianTextSummarizationAbstractive & extractive summarization of Persian text.PersonReidentificationComputer-vision pipeline for matching individuals across multiple camera views (Person Re-ID).Sentiment-AnalysisSentiment classification on the UCI "Sentiment Labelled Sentences" (Amazon) dataset.ML2021Machine learning course materials, notes, and notebooks.
+---
 
-📊 GitHub Stats
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td>📝 <a href="https://github.com/ParisaRostaami/PersianTextSummarization"><b>PersianTextSummarization</b></a></td>
+    <td>Abstractive &amp; extractive summarization of Persian text.</td>
+  </tr>
+  <tr>
+    <td>🎥 <a href="https://github.com/ParisaRostaami/PersonReidentification"><b>PersonReidentification</b></a></td>
+    <td>Computer-vision pipeline for matching individuals across multiple camera views (Person Re-ID).</td>
+  </tr>
+  <tr>
+    <td>💬 <a href="https://github.com/ParisaRostaami/Sentiment-Analysis"><b>Sentiment-Analysis</b></a></td>
+    <td>Sentiment classification on the UCI "Sentiment Labelled Sentences" (Amazon) dataset.</td>
+  </tr>
+  <tr>
+    <td>📚 <a href="https://github.com/ParisaRostaami/ML2021"><b>ML2021</b></a></td>
+    <td>Machine learning course materials, notes, and notebooks.</td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParisaRostaami&show_icons=true&hide_border=true" alt="Parisa's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaRostaami&layout=compact&hide_border=true" alt="Top languages" height="165"/>
