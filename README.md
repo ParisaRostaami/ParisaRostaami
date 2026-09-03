@@ -123,6 +123,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParisaRostaami&show_icons=true&hide_border=true" alt="Parisa's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaRostaami&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=ParisaRostaami&show_icons=true&hide_border=true" alt="Parisa's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ParisaRostaami&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
