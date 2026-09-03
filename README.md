@@ -61,20 +61,60 @@
 
 <table>
   <tr>
+    <td>🩺 <a href="https://github.com/ParisaRostaami/counterfactual-ward"><b>Counterfactual Ward</b></a></td>
+    <td>Smallest change that would flip a clinical risk model — tabular + notes, with actionability constraints.</td>
+  </tr>
+  <tr>
+    <td>🚗 <a href="https://github.com/ParisaRostaami/jamiton-sentinel"><b>Jamiton Sentinel</b></a></td>
+    <td>Physics-inspired early warning for phantom traffic jams on a ring road (IDM + space–time plots).</td>
+  </tr>
+  <tr>
+    <td>🔤 <a href="https://github.com/ParisaRostaami/protolexicon"><b>Protolexicon</b></a></td>
+    <td>Reconstruct ancestral word forms from Persian and European cognates by undoing regular sound changes.</td>
+  </tr>
+  <tr>
+    <td>🎵 <a href="https://github.com/ParisaRostaami/synesthetic-score"><b>Synesthetic Score</b></a></td>
+    <td>Turn an image into a melody and show which patches drove high vs low notes.</td>
+  </tr>
+  <tr>
+    <td>🐦 <a href="https://github.com/ParisaRostaami/avian-dialects"><b>Avian Dialects</b></a></td>
+    <td>Classify and morph regional birdsong “accents” from spectrograms.</td>
+  </tr>
+  <tr>
+    <td>🌙 <a href="https://github.com/ParisaRostaami/dream-cartographer"><b>Dream Cartographer</b></a></td>
+    <td>Map dream-journal nights into a 2D atlas and a graph of recurring images.</td>
+  </tr>
+  <tr>
+    <td>🍲 <a href="https://github.com/ParisaRostaami/recipe-stratigraphy"><b>Recipe Stratigraphy</b></a></td>
+    <td>Peel modern recipes back through ingredient eras and reconstruct older versions.</td>
+  </tr>
+  <tr>
+    <td>🖼️ <a href="https://github.com/ParisaRostaami/anachronism-hunter"><b>Anachronism Hunter</b></a></td>
+    <td>Flag objects that could not have existed in the historical period a scene claims.</td>
+  </tr>
+  <tr>
+    <td>🏛️ <a href="https://github.com/ParisaRostaami/memory-palace-architect"><b>Memory Palace Architect</b></a></td>
+    <td>Build a walkable mnemonic palace from a list of facts and measure recall along the tour.</td>
+  </tr>
+  <tr>
+    <td>🌦️ <a href="https://github.com/ParisaRostaami/mood-meteorology"><b>Mood Meteorology</b></a></td>
+    <td>Treat public mood as weather: city maps of valence/arousal and a next-day forecast.</td>
+  </tr>
+  <tr>
     <td>📝 <a href="https://github.com/ParisaRostaami/PersianTextSummarization"><b>PersianTextSummarization</b></a></td>
     <td>Abstractive &amp; extractive summarization of Persian text.</td>
   </tr>
   <tr>
     <td>🎥 <a href="https://github.com/ParisaRostaami/PersonReidentification"><b>PersonReidentification</b></a></td>
-    <td>Computer-vision pipeline for matching individuals across multiple camera views (Person Re-ID).</td>
+    <td>Matching individuals across multiple camera views (Person Re-ID).</td>
   </tr>
   <tr>
     <td>💬 <a href="https://github.com/ParisaRostaami/Sentiment-Analysis"><b>Sentiment-Analysis</b></a></td>
-    <td>Sentiment classification on the UCI "Sentiment Labelled Sentences" (Amazon) dataset.</td>
+    <td>Sentiment classification on the UCI Amazon review sentences.</td>
   </tr>
   <tr>
-    <td>📚 <a href="https://github.com/ParisaRostaami/ML2021"><b>ML2021</b></a></td>
-    <td>Machine learning course materials, notes, and notebooks.</td>
+    <td>🖼️ <a href="https://github.com/ParisaRostaami/ImageCaptioning"><b>ImageCaptioning</b></a></td>
+    <td>Persian image captions with an LSTM decoder over pretrained CNN encoders.</td>
   </tr>
 </table>
 
